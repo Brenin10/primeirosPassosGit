@@ -1,2 +1,3 @@
-# primeirosPassosGit
-Repositório com o objetivo de salvar os primeiros arquivos no GitHub.
+# Curso Digital: Git
+
+## Salvando mudanças no repositório
